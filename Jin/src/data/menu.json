@@ -1,0 +1,276 @@
+[
+    {
+        "id": 1,
+        "name": "Sushi Saumon Tsukudani",
+        "price" : 3,
+        "category": "Sushi",
+        "veggie": false,
+        "image": {
+            "source": "../../public/images/sushi-saumon-tsukudani.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Sushi Saumon",
+        "price" : 2,
+        "category": "Sushi",
+        "veggie": false,
+        "image": {
+            "source": "../../public/images/sushi-saumon.webp",
+            "alt": "a"
+        },
+        "inStock": true,
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Sushi Saumon Teriyaki",
+        "price": 3,
+        "category": "Sushi",
+        "veggie": false,
+        "image": {
+            "source": "../../public/images/sushi-saumon-teriyaki.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Shushi Thon",
+        "price": 3,
+        "category": "Sushi",
+        "veggie": false,
+        "image": {
+            "source": "../../public/images/sushi-thon.webp",
+            "alt": ""
+        },
+        "inStock": false,
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Shushi-Roast Sardine",
+        "category": "Sushi",
+        "veggie": false,
+        "price": 4,
+        "image": {
+            "source": "../../public/images/sushi-roast-sardine.webp",
+            "alt": ""
+        },
+        "inStock": false,
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "Shushi Daurade",
+        "category": "Sushi",
+        "veggie": false,
+        "price": 3,
+        "image": {
+            "source": "../../public/images/sushi-daurade.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "name": "Shushi Asperge",
+        "category": "Sushi",
+        "veggie": true,
+        "price": 3,
+        "image": {
+            "source": "../../public/images/sushi-asperge-miso.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "name": "Shushi Oeufs de saumon",
+        "category": "Sushi",
+        "veggie": false,
+        "price": 4,
+        "image": {
+            "source": "../../public/images/sushi-oeufs-de-saumon.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 1
+    },
+    {
+        "id": 9,
+        "name": "Maki Daurade Kumquat",
+         "category": "Maki",
+        "veggie": false,
+        "price": 7,
+        "image": {
+            "source": "../../public/images/maki-daurade-kumquat.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 6
+    },
+    {
+        "id": 10,
+        "name": "Maki Cheese Avocat",
+         "category": "Maki",
+        "veggie": true,
+        "price": 5,
+        "image": {
+            "source": "../../public/images/maki-cheese-avocat.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 6
+    },
+    {
+        "id": 11,
+        "name": "Maki Avocat wasabi",
+         "category": "Maki",
+        "veggie": true,
+        "price": 5,
+        "image": {
+            "source": "../../public/images/maki-avocat-wasabi.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 6
+    },
+    {
+        "id": 12,
+        "name": "Maki Saumon",
+         "category": "Maki",
+        "veggie": false,
+        "price": 6,
+        "image": {
+            "source": "../../public/images/maki-saumon.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 6
+    },
+    {
+        "id": 13,
+        "name": "Maki Thon",
+         "category": "Maki",
+        "veggie": false,
+        "price": 6,
+        "image": {
+            "source": "../../public/images/maki-thon.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 6
+    },
+    {
+        "id": 14,
+        "name": "Maki Thon Spicy",
+         "category": "Maki",
+        "veggie": false,
+        "price": 6.50,
+        "image": {
+            "source": "../../public/images/maki-thon-spicy.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 6
+    },
+    {
+        "id": 15,
+        "name": "Maki Salmon Roll",
+         "category": "Maki",
+        "veggie": false,
+        "price": 7.50,
+        "image": {
+            "source": "../../public/images/maki-salmon-roll.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 6
+    },
+    {
+        "id": 16,
+        "name": "Yakitori Poulet Tsukune",
+        "category": "Yakitori",
+        "veggie": false,
+        "price": 6,
+        "image": {
+            "source": "../../public/images/yakitori-poulet-tsukune.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 2
+    },
+    {
+        "id": 17,
+        "name": "Yakitori Poulet",
+        "category": "Yakitori",
+        "veggie": false,
+        "price": 6,
+        "image": {
+            "source": "../../public/images/yakitori-poulet.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 2
+    },
+    {
+        "id": 18,
+        "name": "Yakitori boeuf fromage",
+        "category": "Yakitori",
+        "veggie": false,
+        "price": 6,
+        "image": {
+            "source": "../../public/images/yakitori-boeuf-fromage.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 2
+    },
+    {
+        "id": 19,
+        "name": "Gyozas boeuf",
+        "category": "Gyozas",
+        "veggie": true,
+        "price": 4.50,
+        "image": {
+            "source": "../../public/images/gyozas-boeuf.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 3
+    },
+    {
+        "id": 20,
+        "name": "Gyozas poulet",
+        "category": "Gyozas",
+        "veggie": false,
+        "price": 4.50,
+        "image": {
+            "source": "../../public/images/gyozas-poulet.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 3
+    },
+    {
+        "id": 21,
+        "name": "Gyozas végétariens",
+        "category": "Gyozas",
+        "veggie": true,
+        "price": 4.50,
+        "image": {
+            "source": "../../public/images/gyozas-vegetariens.webp",
+            "alt": ""
+        },
+        "inStock": true,
+        "quantity": 3
+    }
+
+]
